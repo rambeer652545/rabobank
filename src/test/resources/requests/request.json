@@ -1,0 +1,7 @@
+{"customerStatementVOS":[{
+  "transactionReference": "1002",
+  "accountNumber": "101",
+  "startBalance": "1000",
+  "mutation": "+",
+  "description": "",
+  "endBalance": "900"}]}

@@ -1,0 +1,28 @@
+{
+  "customerStatementVOS":[
+    {
+      "transactionReference": "1002",
+      "accountNumber": "101",
+      "startBalance": "1000",
+      "mutation": "-",
+      "description": "",
+      "endBalance": "1900"
+    },
+    {
+      "transactionReference": "1003",
+      "accountNumber": "101",
+      "startBalance": "1000",
+      "mutation": "+",
+      "description": "",
+      "endBalance": "900"
+    },
+    {
+      "transactionReference": "1004",
+      "accountNumber": "101",
+      "startBalance": "1000",
+      "mutation": "-",
+      "description": "",
+      "endBalance": "900"
+    }
+  ]
+}
